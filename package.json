@@ -31,7 +31,7 @@
     "react-toggle-switch": "^3.0.4",
     "timepicker": "^1.11.12",
    
-    "xlsx": "^0.13.4"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
