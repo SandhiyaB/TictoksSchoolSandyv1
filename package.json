@@ -11,7 +11,7 @@
     "firebase": "^5.5.2",
     "idb": "^2.1.2",
     "jquery": "^2.2.4",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "jquery-ui-multiselect-widget": "^2.0.2",
     "jquery_multiselect": "^2.3.9",
     "mobile-detect": "^1.4.2",
