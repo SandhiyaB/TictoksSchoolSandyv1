@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "bootstrap-multiselect": "^0.9.13-1",
     "case": "^1.5.5",
     "chart.js": "^2.7.2",
